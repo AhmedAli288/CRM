@@ -22,7 +22,8 @@ A Customer Relationship Management System. It manages customer accounts.
 source .env
 ```
 1. For Password Recovery Services
-    ```Write Your Email credentials
+    ```
+    Write Your Email credentials
     at the end of "Settings.py" file, 
     instead of stars.
     ```
