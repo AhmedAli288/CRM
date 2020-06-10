@@ -18,10 +18,10 @@ A Customer Relationship Management System. It manages customer accounts.
     ```
 
 1. Setup an environment and run project (Activate virtual environment and install requirements and run development server)
-```shell script
-source .env
-```
-1. For Password Recovery Services
+    ```shell script
+    source .env
+    ```
+5. For Password Recovery Services
     ```
     Write Your Email credentials
     at the end of "Settings.py" file, 
